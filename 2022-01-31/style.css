@@ -1,0 +1,17 @@
+body {
+    background-color: #ddd;    
+}
+h1 {
+    background-color: #ddd;
+    color: #333;
+    width: 13rem;
+    border-top-right-radius: 5rem;
+    border-bottom-right-radius: 5rem;
+
+    position:absolute;
+    top: calc(100% - 3rem);
+}
+
+.align-justify {
+    text-align: justify;
+}
