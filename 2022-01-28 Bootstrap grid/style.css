@@ -1,0 +1,8 @@
+div {
+    text-align: justify;
+    border: 1px solid gray;
+}
+
+div.row {
+    border-style: none;
+}

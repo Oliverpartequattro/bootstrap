@@ -1,0 +1,12 @@
+p {
+    text-align: justify;
+}
+
+:root {
+    --bs-primary-rgb: 61, 52, 139;
+    --bs-secondary-rgb: 108, 117, 125;
+    --bs-success-rgb: 247, 184, 1;
+    --bs-info-rgb: 158, 183, 229;
+    --bs-warning-rgb: 35, 31, 32;
+    --bs-danger-rgb: 220, 53, 69;
+}
